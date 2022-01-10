@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kyupid/static/css/main.073c9b0a.css",
+    "main.js": "/Kyupid/static/js/main.80bb953b.js",
+    "static/js/787.c1621647.chunk.js": "/Kyupid/static/js/787.c1621647.chunk.js",
+    "index.html": "/Kyupid/index.html",
+    "main.073c9b0a.css.map": "/Kyupid/static/css/main.073c9b0a.css.map",
+    "main.80bb953b.js.map": "/Kyupid/static/js/main.80bb953b.js.map",
+    "787.c1621647.chunk.js.map": "/Kyupid/static/js/787.c1621647.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80bb953b.js"
+  ]
+}
